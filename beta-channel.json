@@ -1,6 +1,6 @@
 {
   "enabled": true,
   "message": "The Beta has ended. Thanks for testing!",
-  "min_beta": 0,
-  "min_beta_message": "This Beta is too old. Ask the developer for the new one."
+  "min_beta": 5,
+  "min_beta_message": "This Beta is too old. Install Beta 5 from the developer."
 }
